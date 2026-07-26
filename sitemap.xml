@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://churamp.search-mania.net/blog/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://churamp.search-mania.net/privacy-policy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
